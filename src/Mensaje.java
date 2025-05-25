@@ -13,7 +13,7 @@ public class Mensaje {
         //
     }
     
-    public void metodoNuevo(){
+    public void metodoxd(){
         System.out.println("");
         //
         //
